@@ -158,7 +158,7 @@ class PageOne(tk.Frame):
                     print('file opened')
                     show_1.insert(tk.END,'File Opened !')
                     show_1.insert(tk.END,'\n')
-Q
+
                 f.close()
 
             s.close()
