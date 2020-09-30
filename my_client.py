@@ -164,11 +164,5 @@ class PageOne(tk.Frame):
             s.close()
 
 
-
-
-
-
-
-
 app = Page()
 app.mainloop()
